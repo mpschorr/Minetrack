@@ -1,12 +1,132 @@
 [
-	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
-		"type": "PC"
-	},
-	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
-		"type": "PC"
-	}
+  {
+    "name": "LuxCube",
+    "ip": "gens.luxcube.net",
+    "genre": "Gens",
+    "type": "PC"
+  },
+  {
+    "name": "Cropied",
+    "ip": "cropied.minehut.gg",
+    "genre": "Gens",
+    "type": "PC"
+  },
+  {
+    "name": "Genust",
+    "ip": "genust.minehut.gg",
+    "genre": "Gens",
+    "type": "PC"
+  },
+  {
+    "name": "GensFood",
+    "ip": "gensfood.minehut.gg",
+    "genre": "Gens",
+    "type": "PC"
+  },
+  {
+    "name": "ZanaGens",
+    "ip": "zanagens.minehut.gg",
+    "genre": "Gens",
+    "type": "PC"
+  },
+  {
+    "name": "HeatGens",
+    "ip": "heatgens.minehut.gg",
+    "genre": "Gens",
+    "type": "PC"
+  },
+  {
+    "name": "RainRealms",
+    "ip": "rainrealms.minehut.gg",
+    "genre": "Gens",
+    "type": "PC"
+  },
+  {
+    "name": "SunGenz",
+    "ip": "sungenz.minehut.gg",
+    "genre": "Gens",
+    "type": "PC"
+  },
+  {
+    "name": "SunRealms",
+    "ip": "play.sunrealms.net",
+    "genre": "Gens",
+    "type": "PC"
+  },
+
+  {
+    "name": "TowerDefense",
+    "ip": "towerdefense.minehut.gg",
+    "genre": "Other Eco",
+    "type": "PC"
+  },
+  {
+    "name": "Clickerfy",
+    "ip": "clickerfy.minehut.gg",
+    "genre": "Other Eco",
+    "type": "PC"
+  },
+
+  {
+    "name": "Lifesteal",
+    "ip": "play.lifesteal.rip",
+    "genre": "Lifesteal",
+    "type": "PC"
+  },
+  {
+    "name": "ArmorUp",
+    "ip": "armorup.minehut.gg",
+    "genre": "Lifesteal",
+    "type": "PC"
+  },
+  {
+    "name": "BlzeSteal",
+    "ip": "blzesteal.minehut.gg",
+    "genre": "Lifesteal",
+    "type": "PC"
+  },
+  {
+    "name": "TulpCraft",
+    "ip": "play.tulpcraft.me",
+    "genre": "Lifesteal",
+    "type": "PC"
+  },
+
+  {
+    "name": "Zyptrik",
+    "ip": "zyptrik.minehut.gg",
+    "genre": "Box",
+    "type": "PC"
+  },
+  {
+    "name": "RewindBox",
+    "ip": "rewindbox.minehut.gg",
+    "genre": "Box",
+    "type": "PC"
+  },
+  {
+    "name": "AdrenalinBox",
+    "ip": "adrenalinbox.minehut.gg",
+    "genre": "Box",
+    "type": "PC"
+  },
+  {
+    "name": "RizzMines",
+    "ip": "rizzmines.minehut.gg",
+    "genre": "Box",
+    "type": "PC"
+  },
+  {
+    "name": "JustBox",
+    "ip": "justbox.minehut.gg",
+    "genre": "Box",
+    "type": "PC"
+  },
+
+  {
+    "name": "WildKits",
+    "ip": "wildkits.minehut.gg",
+    "genre": "Box",
+    "type": "PC"
+  }
 ]
