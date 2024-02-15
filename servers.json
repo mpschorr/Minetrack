@@ -53,6 +53,12 @@
     "genre": "Gens",
     "type": "PC"
   },
+  {
+    "name": "Mobied",
+    "ip": "play.mobied.net",
+    "genre": "Gens",
+    "type": "PC"
+  },
 
   {
     "name": "TowerDefense",
